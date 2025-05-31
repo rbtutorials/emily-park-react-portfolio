@@ -6,8 +6,8 @@
 @import "theme-variables-builder";
 
 $primary: darken(#f89be7, 40%);
-$secondary: darken(#a7aab2, 20%);
-$dark: lighten(#f89be7, 10%);
+$secondary: #6c5f6a;
+$dark: #f8cde6;
 $danger: #b03c7c;
 $muted: darken(#a7aab2, 15%);
 
@@ -21,9 +21,9 @@ $texts-inverted: #ffffff;
 $base-container-bg: #fae5f3;
 $base-container-bg-accent: lighten($base-container-bg, 5%);
 $base-popover-bg: lighten(#efdbe9, 3%);
-$base-boards: lighten(#f89be7, 13%);
+$base-boards: #faddee;
 $base-info-badges: lighten(#eca8da, 4%);
-$empty: #fff0fa;
+$empty: #fdf3fa;
 
 $borders: #f1e1ec;
 $scrollbar-track: #fbd5f0;

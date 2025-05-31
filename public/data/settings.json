@@ -83,5 +83,9 @@
                 }
             }
         }
+    ],
+    "imagesToCache": [
+        "images/svg/logo-small-dark.svg",
+        "images/svg/logo-small-light.svg"
     ]
 }
