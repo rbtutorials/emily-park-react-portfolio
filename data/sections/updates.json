@@ -176,7 +176,10 @@
             "id": 2,
             "component": "ArticleThread",
             "locales": {
-                "en": { "title": "Life {{Updates}}" }
+                "en": { "title": "Life {{Updates}}" },
+                "it": { "title": "Aggiornamenti sulla {{vita}}" },
+                "ko": { "title": "{{인생}} 업데이트" },
+                "zh": { "title": "{{生活}}更新" }
             },
             "settings": {
                 "max_rows_collapse_threshold": 3,
